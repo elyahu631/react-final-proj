@@ -1,0 +1,14 @@
+.link-style{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;  
+  margin:5px;
+  text-decoration: none;
+  width: 80px;
+};
+
+.link-style div{
+  margin-bottom: 3px;
+  font-size: 6px;
+}
