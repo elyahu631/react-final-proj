@@ -1,0 +1,19 @@
+:root{ 
+  --color-white:rgb(255, 255, 255);
+  --color-cool-red: rgb(190, 85, 73);
+  --main-font-family: 'Josefin Sans';
+  --title-font-family:'Permanent Marker' ;
+  --step-5:clamp(2.27rem, 3.01rem + 1.29vw, 4.7vw);
+}
+
+.c-orenge{
+  color:#ff8000;
+}
+
+.c-gray_white{
+  color:#f5f5f5;
+}
+
+.c-purple{
+  color:#d1086b;
+}
